@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: rgb(71, 67, 67);
+    color: white;
+    padding-top: 30px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+header h1{
+    font-size: 3em;
+}
+main{
+    
+}
+div{
+    padding: 10vh;
+    line-height: 2em;
+    font-size: 1.5em;
+}
+.div-texto{
+    
+}
+.div-img-texto > p{
+    background-color: rgba(0, 0, 0, 0.37);
+    color: white;
+    padding: 10px;
+    text-shadow: 1px 1px 0 black;
+}
+#img1{
+    background-image: url(gradient-wallpaper-background_1159-5356.jpg);
+    background-size: cover;
+
+    background-attachment: fixed;
+}
+#img2{
+    background-image: url(images.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
